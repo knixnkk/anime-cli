@@ -1,4 +1,4 @@
-# Anime Streaming Script
+# Anime Scraping CLI
 
 A command-line application that automates browsing and watching anime from [Anifume.com](https://anifume.com). Built using Node.js, Puppeteer for web scraping, and Inquirer for interactive user input, this script allows users to easily search, select, and watch their favorite anime episodes while keeping track of their last watched episode.
 
